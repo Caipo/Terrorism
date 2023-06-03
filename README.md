@@ -28,5 +28,10 @@ data/: A folder that has the zip file of the data we are looking at, that will b
 scripts/: Just some python files to unzip the data and drop some columns to allow the data to be stored on github.
 
 
+## Data
+
+source: https://www.start.umd.edu/gtd/
+
+note the data was pulled in 2021 and is not up to date.
 
 
