@@ -1,4 +1,4 @@
-# Fourty years of Terro
+# Fourty years of Terrorism
 
 ## Introduction
 Introduction to Data Analysis on the Global Terrorism Database
