@@ -1,5 +1,7 @@
 # Fourty years of Terrorism
 
+![terrorism](https://github.com/Caipo/Terrorism/assets/67617907/ccbc0d31-1f93-4204-b832-7d977889c158)
+
 ## Introduction
 Introduction to Data Analysis on the Global Terrorism Database
 
@@ -28,7 +30,7 @@ data/: A folder that has the zip file of the data we are looking at, that will b
 scripts/: Just some python files to unzip the data and drop some columns to allow the data to be stored on github.
 
 
-## Data![terrorism](https://github.com/Caipo/Terrorism/assets/67617907/ccbc0d31-1f93-4204-b832-7d977889c158)
+## Data
 
 
 source: https://www.start.umd.edu/gtd/
